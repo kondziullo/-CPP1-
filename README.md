@@ -1,1 +1,1 @@
-# -CPP1-
+Podstawy programowania obiektowego.
