@@ -1,0 +1,3 @@
+/Users/kondzio/Desktop/studia/c++/lab02/build/CMakeFiles/Konrad_Machowski.dir
+/Users/kondzio/Desktop/studia/c++/lab02/build/CMakeFiles/edit_cache.dir
+/Users/kondzio/Desktop/studia/c++/lab02/build/CMakeFiles/rebuild_cache.dir

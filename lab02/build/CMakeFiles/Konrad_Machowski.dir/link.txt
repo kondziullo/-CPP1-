@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Konrad_Machowski.dir/src/GOperations.cpp.o CMakeFiles/Konrad_Machowski.dir/src/GSeries.cpp.o CMakeFiles/Konrad_Machowski.dir/src/Main.cpp.o -o Konrad_Machowski
