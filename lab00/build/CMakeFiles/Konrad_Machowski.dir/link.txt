@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -Wl,--dependency-file=CMakeFiles/Konrad_Machowski.dir/link.d CMakeFiles/Konrad_Machowski.dir/src/Arithmetic.cpp.o CMakeFiles/Konrad_Machowski.dir/src/BuildMode.cpp.o CMakeFiles/Konrad_Machowski.dir/src/Main.cpp.o -o Konrad_Machowski

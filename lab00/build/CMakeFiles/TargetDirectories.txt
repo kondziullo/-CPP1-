@@ -1,0 +1,3 @@
+/home/stud2025/5machowski/studia/cpp/lab00/build/CMakeFiles/Konrad_Machowski.dir
+/home/stud2025/5machowski/studia/cpp/lab00/build/CMakeFiles/edit_cache.dir
+/home/stud2025/5machowski/studia/cpp/lab00/build/CMakeFiles/rebuild_cache.dir

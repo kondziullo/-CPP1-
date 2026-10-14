@@ -1,0 +1,10 @@
+1) Co zawierają pliki .ii, .s i .o?
+
+2) Czym różni się kompilacja od linkowania?
+
+3) Dlaczego linkowanie bez Arithmetic.o nie powiedzie się?
+
+4) Co w tym projekcie zmienia definicja NDEBUG?
+
+5) Czym różni się CMake od Make i Ninja?
+
